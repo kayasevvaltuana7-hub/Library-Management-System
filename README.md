@@ -66,7 +66,10 @@ işlemleri gerçekleştirilebilmektedir.
 
 ---
 
-```
+```bash
+
+````
+
 
 ## Veri Saklama Yapısı
 
