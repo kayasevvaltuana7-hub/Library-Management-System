@@ -12,7 +12,7 @@ def kullanicilari_yukle():
     try:
         with open("kullanicilar.txt", "r", encoding="utf-8") as dosya:
             for satir in dosya:
-                id, ad, sifre, rol = satir.strip().split()
+                id, ad, sifre, rol = satir.strip().split('|')
                 kullanicilar.append(Kullanici(id, ad, sifre, rol))
 
     except FileNotFoundError:
@@ -51,13 +51,3 @@ def menu_goster(kullanici):
         print("1. Kitap ara")
         print("2. Kitap ödünç al")
 
-
-kullanicilar = kullanicilari_yukle()
-
-aktif_kullanici = giris_yap(kullanicilar)
-
-if aktif_kullanici:
-    print("\nGiriş başarılı.")
-    menu_goster(aktif_kullanici)
-else:
-    print("\nID veya şifre hatalı.")
