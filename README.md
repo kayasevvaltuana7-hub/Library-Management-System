@@ -66,27 +66,7 @@ işlemleri gerçekleştirilebilmektedir.
 
 ---
 
-## Proje Yapısı
-
-```bash
-Library-Inventory-System/
-│
-├── data/
-│   ├── books.txt
-│   ├── users.txt
-│   └── loans.txt
-│
-├── src/
-│   ├── main.py
-│   ├── auth.py
-│   ├── book_operations.py
-│   ├── user_operations.py
-│   └── loan_operations.py
-│
-└── README.md
-````
-
----
+```
 
 ## Veri Saklama Yapısı
 
