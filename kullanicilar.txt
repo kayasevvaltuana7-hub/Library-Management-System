@@ -1,7 +1,7 @@
-1 ali 1234 yonetici
-2 ayse 1111 personel
-3 fatma 2222 ogrenci
-4 mehmet 3333 ogrenci
-5 zeynep 4444 personel
-6 can 5555 ogrenci
-7 elif 6666 yonetici
+1|ali|1234|yonetici
+2|ayse|1111|personel
+3|fatma|2222|ogrenci
+4|mehmet|3333|ogrenci
+5|zeynep|4444|personel
+6|can|5555|ogrenci
+7|elif|6666|yonetici
