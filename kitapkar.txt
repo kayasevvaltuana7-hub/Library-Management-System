@@ -1,0 +1,48 @@
+9789750719387|Suç ve Ceza|Fyodor Dostoyevski|Can Yayınları|1866|5|A12
+9789750738609|Kürk Mantolu Madonna|Sabahattin Ali|Yapı Kredi Yayınları|1943|3|A13
+9786053754794|1984|George Orwell|Can Yayınları|1949|7|B01
+9789750726439|Hayvan Çiftliği|George Orwell|Can Yayınları|1945|4|B02
+9786052988152|Dune|Frank Herbert|İthaki Yayınları|1965|6|C10
+9789753425988|Yüzüklerin Efendisi|J.R.R. Tolkien|Metis Yayınları|1954|2|C11
+9786051716404|Harry Potter ve Felsefe Taşı|J.K. Rowling|Yapı Kredi Yayınları|1997|8|C12
+9786052993453|Vakıf|Isaac Asimov|İthaki Yayınları|1951|4|C13
+9786257685474|Metro 2033|Dmitry Glukhovsky|Pegasus Yayınları|2005|5|C14
+9786050949339|Marslı|Andy Weir|Epsilon Yayınları|2011|3|C15
+9789750738601|Sefiller|Victor Hugo|İş Bankası Kültür Yayınları|1862|6|D01
+9786053321989|Simyacı|Paulo Coelho|Can Yayınları|1988|9|D02
+9786053608813|Beyaz Diş|Jack London|İş Bankası Kültür Yayınları|1906|5|D03
+9786051415529|Şeker Portakalı|Jose Mauro De Vasconcelos|Can Çocuk Yayınları|1968|7|D04
+9789754589023|Tutunamayanlar|Oğuz Atay|İletişim Yayınları|1971|2|D05
+9789750738618|İnsan Ne İle Yaşar?|Lev Tolstoy|İş Bankası Kültür Yayınları|1885|6|D06
+9786051887142|Küçük Prens|Antoine de Saint-Exupery|Can Çocuk Yayınları|1943|10|D07
+9789751042453|Satranç|Stefan Zweig|İş Bankası Kültür Yayınları|1942|5|D08
+9789750748608|Dracula|Bram Stoker|Can Yayınları|1897|4|E01
+9786051736044|Frankenstein|Mary Shelley|İthaki Yayınları|1818|3|E02
+9786052999998|Sherlock Holmes Kızıl Dosya|Arthur Conan Doyle|İş Bankası Kültür Yayınları|1887|5|E03
+9786254142154|Doğu Ekspresinde Cinayet|Agatha Christie|Altın Kitaplar|1934|6|E04
+9786050968323|Da Vinci Şifresi|Dan Brown|Altın Kitaplar|2003|4|E05
+9789750726453|Yeraltından Notlar|Fyodor Dostoyevski|Can Yayınları|1864|3|E06
+9786053329992|Martin Eden|Jack London|İş Bankası Kültür Yayınları|1909|5|F01
+9789750738625|Savaş ve Barış|Lev Tolstoy|İş Bankası Kültür Yayınları|1869|2|F02
+9786052958155|Körlük|Jose Saramago|Kırmızı Kedi Yayınları|1995|4|F03
+9786051859606|Cesur Yeni Dünya|Aldous Huxley|İthaki Yayınları|1932|6|F04
+9786257685481|Fahrenheit 451|Ray Bradbury|İthaki Yayınları|1953|5|F05
+9789750750007|Bilinmeyen Bir Kadının Mektubu|Stefan Zweig|Can Yayınları|1922|4|F06
+9786051737058|Neuromancer|William Gibson|İthaki Yayınları|1984|3|G01
+9789750740008|Otomatik Portakal|Anthony Burgess|Can Yayınları|1962|2|G02
+9789750719400|Anna Karenina|Lev Tolstoy|Can Yayınları|1877|5|G03
+9786050968330|Inferno|Dan Brown|Altın Kitaplar|2013|4|G04
+9786053754800|Karamazov Kardeşler|Fyodor Dostoyevski|Can Yayınları|1880|6|G05
+9789750726460|Budala|Fyodor Dostoyevski|Can Yayınları|1869|3|G06
+9786052998885|Androidler Elektrikli Koyun Düşler mi?|Philip K. Dick|İthaki Yayınları|1968|4|H01
+9786051415536|Momo|Michael Ende|Pegasus Yayınları|1973|7|H02
+9789750748615|Gurur ve Önyargı|Jane Austen|Can Yayınları|1813|5|H03
+9786052959992|Don Kişot|Miguel de Cervantes|İş Bankası Kültür Yayınları|1605|2|H04
+9786051737065|Solaris|Stanislaw Lem|İthaki Yayınları|1961|4|H05
+9789754589030|Tehlikeli Oyunlar|Oğuz Atay|İletişim Yayınları|1973|3|H06
+9786051889993|Sineklerin Tanrısı|William Golding|İş Bankası Kültür Yayınları|1954|5|I01
+9786050968347|Melekler ve Şeytanlar|Dan Brown|Altın Kitaplar|2000|4|I02
+9789750750014|Amok Koşucusu|Stefan Zweig|Can Yayınları|1922|6|I03
+9786254142161|Nilde Ölüm|Agatha Christie|Altın Kitaplar|1937|5|I04
+9786052997772|Ben Robot|Isaac Asimov|İthaki Yayınları|1950|4|I05
+9789750738632|Diriliş|Lev Tolstoy|İş Bankası Kültür Yayınları|1899|3|I06
